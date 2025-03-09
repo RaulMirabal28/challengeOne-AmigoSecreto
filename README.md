@@ -5,6 +5,9 @@ Este proyecto consiste en realizar un sorteo aleatorio de "Amigo Secreto" entre 
 ## Funcionalidades
 
 - **Agregar nombres**: Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible al presionar el botón "Añadir".
+- 
+![image](https://github.com/user-attachments/assets/81eb43bb-9544-487a-9402-2470ec131e81) - ![image](https://github.com/user-attachments/assets/23c7efa4-a967-42c5-979f-a318be35b81e)
+
 - **Validar entrada**: Se verifica que el campo de texto no esté vacío antes de añadir el nombre, mostrando un mensaje si esta vacío.
 - **Visualizar una lista**: Los nombres ingresados se muestran en una lista en la página.
 - **Sorteo aleatorio**: El botón "Sortear Amigo" selecciona aleatoriamente un nombre de la lista y lo muestra en la pantalla.
